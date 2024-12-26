@@ -1,8 +1,5 @@
-
-function task1(){
+function task1() {  
     console.log("Hello World!");
 }
-
-module.exports = { task1 };
-
-
+task1();
+modules.export = {task1};
